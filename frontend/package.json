@@ -35,7 +35,7 @@
     "moment": "^2.27.0",
     "normalize.css": "^8.0.1",
     "react-inlinesvg": "^2.3.0",
-    "react-tooltip": "^4.2.18",
+    "react-tooltip": "^5.9.0",
     "styled-components": "^5.1.1",
     "uuid": "^8.3.2"
   },
