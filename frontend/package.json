@@ -52,7 +52,7 @@
     "@commitlint/cli": "^16.0.1",
     "@commitlint/config-conventional": "^16.0.0",
     "@react-to-styled/table": "^0.6.0",
-    "@storybook/addon-actions": "^6.1.11",
+    "@storybook/addon-actions": "^7.0.5",
     "@storybook/addon-controls": "^6.3.2",
     "@storybook/addon-docs": "^6.3.2",
     "@storybook/addon-info": "^5.0.0",
